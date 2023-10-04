@@ -1,6 +1,6 @@
 # Hi there! <img src="wave.gif" width="30px">
 
-My name is Syarif Syarifuddin. I am a graduate of Bachelor of Information Systems at Yogyakarta Technology University and currently I am working as a programmer at PT. Indonesian Health System. My area of ​​interest is website development. You can find me on [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2] .
+My name is Syarif Syarifuddin. I am a graduate of Bachelor of Information Systems at Yogyakarta Technology University and currently I am working as a programmer at PT. Sistem Kesehatan Indonesia. My area of ​​interest is website development. You can find me on [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2] .
 
 ## 💻 Tools & Technologies
 
