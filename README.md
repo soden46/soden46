@@ -41,6 +41,8 @@ My name is Syarif Syarifuddin. I am a graduate of Bachelor of Information System
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 💻 Wrok Experience
+![PT.SKI](https://github.com/soden46/soden46/blob/main/ski.png)
 
 ## 📈 Stats
 <p align="center">
